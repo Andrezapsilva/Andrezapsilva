@@ -12,4 +12,4 @@
 <a href="[https://www.linkedin.com/in/andreza-silva-5ba124192]" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![octocat-1695178079171](https://github.com/Andrezapsilva/Andrezapsilva/assets/140206807/4041e75d-34b5-4fc8-959d-3d9ff1df4482)width="40
+![octocat-1695178079171](https://github.com/Andrezapsilva/Andrezapsilva/assets/140206807/4041e75d-34b5-4fc8-959d-3d9ff1df4482)
